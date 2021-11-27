@@ -1,6 +1,4 @@
-# Unichat Application
-
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+**_deployed app link_** - https://chatiw.netlify.app/
 
 ## Introduction
 
