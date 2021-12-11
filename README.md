@@ -1,4 +1,4 @@
-**_deployed app link_** - https://chatapp-test.netlify.app/
+**_Demo_** - https://chatapp-test.netlify.app/
 
 ## Introduction
 
